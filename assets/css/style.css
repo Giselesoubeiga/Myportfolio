@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
 }
-body{
+body,html{
     font-family: Georgia, 'Times New Roman', Times, serif;
   
-   background: #CCC;
+   background-image: url(../images/ripples.png);
+   height: 100%;
 }
 .page-body{
    background: #cccccc;
