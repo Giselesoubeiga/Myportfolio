@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+   background: #CCC;
+}
+.page-body{
+   background: #cccccc;
+}
+.my-menu{
+   height: 100px;
+   background: #FFFFFF;
+   margin-bottom: 50px;
+}
+.my-footer{
+   height: 50px;
+   background: #666666;
+   text-align: center;
+   margin-top: 50px;
+   border-top: 10px solid #4aaaa5;
+   font-size: 10px;
+   color: #FFFFFF;
+   padding: 15px; 
+}
+.post-content{
+   width: 960px;
+   background: #FFF;
+   margin: 0 auto;
+   padding: 25px;
+}
+.post-body img{
+   width: 200px;
+   float: left;
+   margin-right: 25px;
+     
+}
+.post-body{
+   margin-top: 20px;
+   margin-bottom: 50px;
+}
+.post-body p{
+   line-height: 30px;
+   font-size: 18px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu-contener{
+    width: 960px;
+   margin: 0 auto;
+}
+.menu-my-name{
+   background: #4aaaa5;
+   width: 250px;
+   color: #fff;
+   height: 100px;
+   line-height: 80px;
+   font-size: 15px;
+   text-align: center;
+   float: left;
+}
+.menu-links{
+   
+   float: right;
+   height: 100px;
+   line-height: 100px;
+}
+
+.menu-links a{
+color: #777777;
+font-size: 23px;
+margin-right: 20px;
+text-decoration: none;
+}
+
+.post-title{
+   color: #4aaaa5;
+   margin-bottom: 30px;
+
+}
+
+
+/* //Contact  */
+.formControll{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    color: #666666;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+ 
+.btn{
+    background:#4aaaa5 ;
+    padding: 10px;
+    width: 150px;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+/* portfolio  */
+.portofolio-body {
+    height: 500px !important;
+}
+
+ 
+.bloc-img{
+    border: none;
+    height: 150px;
+    width: 150px;
+    width: 45%;
+    display: block;
+    float: left;
+    margin-right: 25px;
+    position: relative;
+    margin-bottom: 25px;
+
+
+}
+.bloc-img-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    background:#4aaaa5;
+    color: #fff;
+    position: absolute;
+    height: 45px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
