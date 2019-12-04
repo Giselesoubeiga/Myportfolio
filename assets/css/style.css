@@ -97,6 +97,10 @@ text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+.formGroupe{
+   color: #777777 
+}
+
  
 .btn{
     background:#4aaaa5 ;
@@ -117,16 +121,20 @@ text-decoration: none;
 .bloc-img{
     border: none;
     height: 150px;
-    width: 150px;
-    width: 45%;
+    width: 300px;
     display: block;
     float: left;
     margin-right: 25px;
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
+}
 
+.bloc-img img{
+   width: 200px;
+   height: 150px;
 
 }
+
 .bloc-img-title{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 10px;
@@ -136,8 +144,7 @@ text-decoration: none;
     height: 45px;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: 50px;
+    bottom: 10px;
     width: 200px;
-    line-height: 15px;
-    float: inline-end;
+    line-height: 45px;
 }
