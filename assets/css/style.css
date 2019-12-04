@@ -9,7 +9,7 @@ body,html{
    height: 100%;
 }
 .page-body{
-   background: #cccccc;
+   
 }
 .my-menu{
    height: 100px;
@@ -137,4 +137,7 @@ text-decoration: none;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    width: 200px;
+    line-height: 15px;
+    float: inline-end;
 }
